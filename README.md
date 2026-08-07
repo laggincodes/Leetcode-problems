@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/laggincodes/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/laggincodes/Leetcode-problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
