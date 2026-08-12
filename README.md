@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/laggincodes/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/laggincodes/Leetcode-problems/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/laggincodes/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laggincodes/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
