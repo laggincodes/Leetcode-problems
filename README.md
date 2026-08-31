@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/laggincodes/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/laggincodes/Leetcode-problems/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/laggincodes/Leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/laggincodes/Leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
