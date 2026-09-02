@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/laggincodes/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/laggincodes/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/laggincodes/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laggincodes/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/laggincodes/Leetcode-problems/tree/master/0476-number-complement) |
 ## Pigeonhole Principle
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/laggincodes/Leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -131,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
