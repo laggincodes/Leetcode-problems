@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/laggincodes/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/laggincodes/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/laggincodes/Leetcode-problems/tree/master/0520-detect-capital) |
