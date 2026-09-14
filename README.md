@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/laggincodes/Leetcode-problems/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/laggincodes/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/laggincodes/Leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/laggincodes/Leetcode-problems/tree/master/3870-count-commas-in-range) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/laggincodes/Leetcode-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
