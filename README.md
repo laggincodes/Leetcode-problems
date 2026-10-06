@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/laggincodes/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/laggincodes/Leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/laggincodes/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/laggincodes/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/laggincodes/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/laggincodes/Leetcode-problems/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/laggincodes/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/laggincodes/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
