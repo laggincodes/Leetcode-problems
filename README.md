@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/laggincodes/Leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0765-couples-holding-hands](https://github.com/laggincodes/Leetcode-problems/tree/master/0765-couples-holding-hands) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
@@ -220,4 +221,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/laggincodes/Leetcode-problems/tree/master/0765-couples-holding-hands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/laggincodes/Leetcode-problems/tree/master/0765-couples-holding-hands) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/laggincodes/Leetcode-problems/tree/master/0765-couples-holding-hands) |
+## Graph Theory
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/laggincodes/Leetcode-problems/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
