@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/laggincodes/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/laggincodes/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0754-reach-a-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/laggincodes/Leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/laggincodes/Leetcode-problems/tree/master/0704-binary-search) |
+| [0754-reach-a-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0754-reach-a-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laggincodes/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
