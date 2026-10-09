@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/laggincodes/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/laggincodes/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/laggincodes/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/laggincodes/Leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0219-contains-duplicate-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/laggincodes/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/laggincodes/Leetcode-problems/tree/master/0765-couples-holding-hands) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
