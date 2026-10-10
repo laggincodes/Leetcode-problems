@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/laggincodes/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/laggincodes/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/laggincodes/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/laggincodes/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/laggincodes/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/laggincodes/Leetcode-problems/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0754-reach-a-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laggincodes/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/laggincodes/Leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/laggincodes/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/laggincodes/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
