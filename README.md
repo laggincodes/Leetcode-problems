@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/laggincodes/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/laggincodes/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/laggincodes/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/laggincodes/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/laggincodes/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/laggincodes/Leetcode-problems/tree/master/0344-reverse-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/laggincodes/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laggincodes/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/laggincodes/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
