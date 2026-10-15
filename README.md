@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/laggincodes/Leetcode-problems/tree/master/2235-add-two-integers) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/laggincodes/Leetcode-problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/laggincodes/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/laggincodes/Leetcode-problems/tree/master/2293-min-max-game) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/laggincodes/Leetcode-problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laggincodes/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/laggincodes/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/laggincodes/Leetcode-problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/laggincodes/Leetcode-problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Combinatorics
 |  |
 | ------- |
