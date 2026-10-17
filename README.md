@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/laggincodes/Leetcode-problems/tree/master/2293-min-max-game) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/laggincodes/Leetcode-problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laggincodes/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/laggincodes/Leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/laggincodes/Leetcode-problems/tree/master/2293-min-max-game) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3477-fruits-into-baskets-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/laggincodes/Leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0765-couples-holding-hands](https://github.com/laggincodes/Leetcode-problems/tree/master/0765-couples-holding-hands) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/laggincodes/Leetcode-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/laggincodes/Leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2733-neither-minimum-nor-maximum](https://github.com/laggincodes/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/laggincodes/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/laggincodes/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/laggincodes/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/laggincodes/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Geometry
 |  |
@@ -316,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
