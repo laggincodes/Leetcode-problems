@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/laggincodes/Leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/laggincodes/Leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/laggincodes/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laggincodes/Leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/laggincodes/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/laggincodes/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/laggincodes/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/laggincodes/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/laggincodes/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/laggincodes/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## Bracket Sequences
 |  |
 | ------- |
