@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/laggincodes/Leetcode-problems/tree/master/2293-min-max-game) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/laggincodes/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
