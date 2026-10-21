@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laggincodes/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1952-three-divisors](https://github.com/laggincodes/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/laggincodes/Leetcode-problems/tree/master/2235-add-two-integers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/laggincodes/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/laggincodes/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/laggincodes/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/laggincodes/Leetcode-problems/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/laggincodes/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/laggincodes/Leetcode-problems/tree/master/2413-smallest-even-multiple) |
@@ -343,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/laggincodes/Leetcode-problems/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/laggincodes/Leetcode-problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
