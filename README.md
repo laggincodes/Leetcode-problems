@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/laggincodes/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laggincodes/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/laggincodes/Leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1844-replace-all-digits-with-characters](https://github.com/laggincodes/Leetcode-problems/tree/master/1844-replace-all-digits-with-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laggincodes/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/laggincodes/Leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/laggincodes/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
