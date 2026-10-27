@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/laggincodes/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/laggincodes/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3127-make-a-square-with-the-same-color](https://github.com/laggincodes/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/laggincodes/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Array
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/laggincodes/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/laggincodes/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3127-make-a-square-with-the-same-color](https://github.com/laggincodes/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3477-fruits-into-baskets-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/laggincodes/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/laggincodes/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [3127-make-a-square-with-the-same-color](https://github.com/laggincodes/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
 ## Divide and Conquer
 |  |
 | ------- |
