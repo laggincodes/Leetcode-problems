@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3127-make-a-square-with-the-same-color](https://github.com/laggincodes/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3477-fruits-into-baskets-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/laggincodes/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3903-smallest-stable-index-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/laggincodes/Leetcode-problems/tree/master/3978-unique-middle-element) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/laggincodes/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/laggincodes/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/laggincodes/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/laggincodes/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/laggincodes/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Geometry
 |  |
 | ------- |
