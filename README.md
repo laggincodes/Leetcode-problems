@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/laggincodes/Leetcode-problems/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/laggincodes/Leetcode-problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laggincodes/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/laggincodes/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/laggincodes/Leetcode-problems/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/laggincodes/Leetcode-problems/tree/master/0754-reach-a-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/laggincodes/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/laggincodes/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2574-left-and-right-sum-differences](https://github.com/laggincodes/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3903-smallest-stable-index-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/laggincodes/Leetcode-problems/tree/master/0765-couples-holding-hands) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/laggincodes/Leetcode-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/laggincodes/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
