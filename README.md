@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/laggincodes/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2615-sum-of-distances](https://github.com/laggincodes/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2733-neither-minimum-nor-maximum](https://github.com/laggincodes/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/laggincodes/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2574-left-and-right-sum-differences](https://github.com/laggincodes/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2615-sum-of-distances](https://github.com/laggincodes/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/laggincodes/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2615-sum-of-distances](https://github.com/laggincodes/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/laggincodes/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Geometry
