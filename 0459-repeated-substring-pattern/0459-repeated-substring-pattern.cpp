@@ -9,12 +9,18 @@ public:
                 int j;
 
                 for(j = i; j < n; j++) {
-                    if(s[j] != s[a]) break;
+                    if(s[j] != s[a]) {
+                        break;
+                    }
                     a++;
-                    if(a == i) a = 0;
+                    if(a == i) {
+                        a = 0;
+                    }
                 }
 
-                if(j == n) return true;
+                if(j == n) {
+                    return true;
+                }
             }
         }
 
