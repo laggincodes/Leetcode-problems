@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/laggincodes/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/laggincodes/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/laggincodes/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/laggincodes/Leetcode-problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3127-make-a-square-with-the-same-color](https://github.com/laggincodes/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3477-fruits-into-baskets-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/laggincodes/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
