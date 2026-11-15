@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laggincodes/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1952-three-divisors](https://github.com/laggincodes/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laggincodes/Leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1929-concatenation-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/laggincodes/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/laggincodes/Leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/laggincodes/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/laggincodes/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2574-left-and-right-sum-differences](https://github.com/laggincodes/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
