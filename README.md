@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/laggincodes/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3701-compute-alternating-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/laggincodes/Leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/laggincodes/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/laggincodes/Leetcode-problems/tree/master/3978-unique-middle-element) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/laggincodes/Leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3701-compute-alternating-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Matrix
 |  |
 | ------- |
