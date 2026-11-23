@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/laggincodes/Leetcode-problems/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laggincodes/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/laggincodes/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1952-three-divisors](https://github.com/laggincodes/Leetcode-problems/tree/master/1952-three-divisors) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/laggincodes/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/laggincodes/Leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1352-product-of-the-last-k-numbers](https://github.com/laggincodes/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laggincodes/Leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/laggincodes/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/laggincodes/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/laggincodes/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/laggincodes/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -454,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/laggincodes/Leetcode-problems/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/laggincodes/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/laggincodes/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
