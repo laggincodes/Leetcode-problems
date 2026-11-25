@@ -1,16 +1,10 @@
 class Solution {
 public:
     bool checkString(string s) {
-        bool ans = false ;
-        for (int i =0 ; i <s.length();i++){
-            if (s[i] == 'b'){
-                ans = true;
+        for (int i = 0; i + 1 < s.size(); ++i) {
+            if (s[i] == 'b' && s[i + 1] == 'a') {
+                return false;
             }
-            else if (ans) {// cause if I would have used else then the answer would have changed 
-                return false ;
-            }
-            
-
         }
         return true;
     }
