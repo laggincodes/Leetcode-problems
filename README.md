@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/laggincodes/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/laggincodes/Leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1844-replace-all-digits-with-characters](https://github.com/laggincodes/Leetcode-problems/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/laggincodes/Leetcode-problems/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laggincodes/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/laggincodes/Leetcode-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/laggincodes/Leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/laggincodes/Leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/laggincodes/Leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/laggincodes/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1859-sorting-the-sentence](https://github.com/laggincodes/Leetcode-problems/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/laggincodes/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/laggincodes/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/laggincodes/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/laggincodes/Leetcode-problems/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/laggincodes/Leetcode-problems/tree/master/1859-sorting-the-sentence) |
 ## Design
 |  |
 | ------- |
